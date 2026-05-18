@@ -15,3 +15,25 @@ Acceptance Criteria:
 - System shows admin role
 
 Status: Implemented
+
+
+
+
+
+
+
+
+
+
+## View Sales Report 
+Role: 
+Admin 
+Feature: 
+View sales report 
+Purpose: 
+Admin can monitor sales performance 
+Acceptance Criteria: 
+- Sales report displayed 
+- Date range filter available 
+- Invoice list shown 
+Status: Implemented
