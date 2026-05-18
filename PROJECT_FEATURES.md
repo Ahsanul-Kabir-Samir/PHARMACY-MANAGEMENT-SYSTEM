@@ -39,7 +39,23 @@ Status: Implemented
 
 
 
+## Deactivate User Account
 
+Role:
+Admin
+
+Feature:
+Deactivate a user account
+
+Purpose:
+Inactive users cannot access the system
+
+Acceptance Criteria:
+- Confirmation message shown
+- User status becomes inactive
+- Login blocked for inactive user
+
+Status: Implemented
 
 
 
