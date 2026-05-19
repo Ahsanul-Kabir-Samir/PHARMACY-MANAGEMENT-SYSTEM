@@ -39,6 +39,29 @@ Status: Implemented
 
 
 
+## Update User Account 
+
+Role: 
+Admin 
+
+Feature: 
+Update a user account 
+
+Purpose: 
+Admin can correct wrong information or change role 
+
+Acceptance Criteria:
+ - Updated information stored
+ - User list updated 
+ - Success message shown 
+
+
+Status: Implemented 
+
+
+
+
+
 ## Deactivate User Account
 
 Role:
